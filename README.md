@@ -53,13 +53,22 @@ This was my first IT field experience and a step into the corporate world, where
 <h2> Data Engineer Projects 👩‍💻📉💹 </h2>
 
 **A Predictive Model Based on Real Estate Transactions**
+
 In this project, I used models like ADA Boost, XG Boost, Random Forest, Ridge, and Lasso to predict house prices based on various features. To make the insights more accessible, I built an interactive Tableau dashboard for data visualization, allowing users to explore and understand the factors influencing house prices easily.
 
 Link : [Dashboard](https://public.tableau.com/app/profile/srujana.guggilla/viz/RealEstatePropertyTransactionDashboard/SALEPRICEPREDICTIONS)
 
+**Loan Approval Prediction**
 
+I built a machine learning model to predict loan approvals, improving decision-making and streamlining the process. Leveraging a Kafka cluster on AWS EC2 enabled real-time data ingestion with significantly lower latency. Additionally, I automated data ingestion and transformation using AWS tools and Python, enhancing efficiency and reducing manual effort.
 
+**Laptop Price Prediction**
 
+In this project, I have used Random Forest Model, Linear Regression Model and Decision Tree Model for predicting the laptop prices with different specifications of the laptop. Data Mining was most important step as we can find many useful insights of the data using visualizations
+
+**Predicting Endangered Species**
+
+In this project, I have used KNN model, Random Forest model and Decision Tree model for predicting the species to which type of species it belongs to and Principal component analysis (PCA) is used to dimensionality reduction and for its easy visualization of the data
 
 
 ## Certificates 🏅🏆
