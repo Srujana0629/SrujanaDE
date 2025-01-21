@@ -4,6 +4,8 @@ library(ggplot2)
 library(patchwork)
 library(tidyr)
 
+Print("Hi")
+
 # Reading data and creating a dataframe
 data <- read.csv("C:/Users/satya/Downloads/archive (4)/depression_anxiety_data.csv")
 data <- as.data.frame(data)
